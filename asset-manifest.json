@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tp2react/static/css/main.84609faf.css",
+    "main.js": "/tp2react/static/js/main.a41946a2.js",
+    "static/js/787.3aa444aa.chunk.js": "/tp2react/static/js/787.3aa444aa.chunk.js",
+    "static/media/image4.png": "/tp2react/static/media/image4.e37ef3d4b239e9cee05d.png",
+    "static/media/image6.png": "/tp2react/static/media/image6.7d955bf798163af19608.png",
+    "static/media/image2.png": "/tp2react/static/media/image2.fceee57d56241c053674.png",
+    "static/media/image1.png": "/tp2react/static/media/image1.572a26d68314d81188ec.png",
+    "static/media/image5.png": "/tp2react/static/media/image5.5a86e3663770109eb321.png",
+    "static/media/image3.png": "/tp2react/static/media/image3.226ec72d79361dfb0017.png",
+    "index.html": "/tp2react/index.html",
+    "main.84609faf.css.map": "/tp2react/static/css/main.84609faf.css.map",
+    "main.a41946a2.js.map": "/tp2react/static/js/main.a41946a2.js.map",
+    "787.3aa444aa.chunk.js.map": "/tp2react/static/js/787.3aa444aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84609faf.css",
+    "static/js/main.a41946a2.js"
+  ]
+}
